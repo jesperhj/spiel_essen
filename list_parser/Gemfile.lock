@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    libxml-ruby (2.8.0)
+    rack (1.6.4)
+    sinatra (1.1.0)
+      rack (~> 1.1)
+      tilt (~> 1.1)
+    tilt (1.4.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  libxml-ruby
+  sinatra
+
+BUNDLED WITH
+   1.10.6
